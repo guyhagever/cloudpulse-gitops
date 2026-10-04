@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: guyhagever/cloudpulse
-  tag: "6363e9f17f78985b89c14392b5cfe1e9529f7120"
+  tag: "34db92e072ad9ed3b2184e64e0512636f18a159d"
   pullPolicy: IfNotPresent
 
 service:
